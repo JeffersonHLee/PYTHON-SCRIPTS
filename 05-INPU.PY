@@ -1,0 +1,5 @@
+resultado= input("INGRESA TU EDAD")
+print(resultado)
+print(type(resultado))
+numero=int((resultado))
+print(numero+2)
